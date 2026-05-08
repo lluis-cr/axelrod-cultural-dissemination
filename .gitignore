@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# R
+.Rhistory
+.RData
+
+# OS
+.DS_Store
+
+# Data (raw data usually not uploaded)
+data/raw/
+
+# Outputs (logs often not needed)
+outputs/logs/
+
+# VS Code settings
+.vscode/
+
+# Notebook and tooling caches
+*.nbconvert.ipynb
