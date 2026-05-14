@@ -1,9 +1,14 @@
 # Axelrod Cultural Dissemination Model
+How do local interactions between individuals lead to global cultural convergence or persistent fragmentation?
 
-Simulation of how societies converge, fragment, or polarise using an
-agent-based implementation of the Axelrod cultural dissemination model.
+This project implements the classical Axelrod model as an agent-based system to study how simple similarity-driven interactions generate complex social outcomes such as consensus, polarisation, and long-lived cultural diversity.
+
+## Example Output
+![Final cultural domains](results/figures/final_cultural_domains.png)
 
 ## What This Project Does
+These dynamics are relevant to real-world systems such as opinion formation, social fragmentation, and cultural integration.
+
 This project implements the classical Axelrod model on a two-dimensional
 lattice:
 
@@ -16,7 +21,7 @@ lattice:
 The current implementation focuses on the baseline model and its reproducible
 outputs.
 
-## Example Outputs
+## Exported Outputs
 The baseline implementation currently saves three standard outputs:
 
 - initial cultural distribution:
