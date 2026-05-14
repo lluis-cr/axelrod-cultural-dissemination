@@ -45,6 +45,7 @@ pip install -r requirements.txt
 ```
 
 ## Run the Baseline Model
+This will generate output figures in `results/figures/`.
 From the repository root:
 
 ```bash
