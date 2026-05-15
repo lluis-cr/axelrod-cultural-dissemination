@@ -54,9 +54,10 @@ are not yet implemented unless explicitly stated.
 axelrod-cultural-dissemination/
 ├── config/                  # Parameters and configuration
 ├── data/                    # Raw and processed inputs (currently minimal)
-├── docs/                    # Research notes, roadmap, and experiment templates
-├── notebooks/               # Baseline notebook plus planning notebooks
+├── docs/                    # Public research notes for the baseline model
+├── notebooks/               # Baseline experiment notebook
 ├── results/                 # Saved figures and future result tables
+├── private/                 # Private planning notes and future-stage drafts
 └── src/axelrod/             # Maintained Python package
 ```
 
@@ -97,8 +98,8 @@ additional dynamics and produce comparative results.
 | Stage 5 | Creator-consumer influence extension | Planned |
 | Stage 6 | Comparative analysis and dissertation figures | Planned |
 
-See [`docs/research_roadmap.md`](docs/research_roadmap.md) for the fuller
-research plan.
+Internal planning notes for later MSc stages are kept private and are not part
+of the public research record for this repository.
 
 ## Documentation
 - [`docs/01_problem_definition.md`](docs/01_problem_definition.md)
@@ -107,9 +108,6 @@ research plan.
 - [`docs/04_method.md`](docs/04_method.md)
 - [`docs/05_results.md`](docs/05_results.md)
 - [`docs/06_limitations.md`](docs/06_limitations.md)
-- [`docs/research_roadmap.md`](docs/research_roadmap.md)
-- [`docs/experiment_template.md`](docs/experiment_template.md)
-- [`docs/work_log.md`](docs/work_log.md)
 
 ## Academic Integrity / Research Status
 This repository is evolving during an MSc research project. The code,
