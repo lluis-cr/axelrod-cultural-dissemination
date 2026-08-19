@@ -1,0 +1,5 @@
+model,pearson_r,pearson_r_display,mae_endpoint_changes,prediction_sum
+Uniform allocation,,Undefined,13.3125,801.0
+T1 marginal disagreement,0.9185862968440491,0.918586,6.716015583784419,800.9999999999999
+Static one-step Axelrod,0.9128928935128108,0.912893,7.072905818984252,801.0
+Dynamic Axelrod mean,0.8979977140622253,0.897998,5.9350000000000005,801.0
